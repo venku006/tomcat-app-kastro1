@@ -41,7 +41,7 @@
             <div class="hero-text">
                 <h1 class="hero-title">
                     Welcome to 
-                    <span class="gradient-text">JDKT Training</span>
+                    <span class="gradient-text">JDKT Training by Kastro Kiran</span>
                     <div class="batch-badge">Batch 06</div>
                 </h1>
                 <div class="instructor-info">
